@@ -1,0 +1,9 @@
+<?php
+$access_token = 'XXXX';
+$client_id = 'XXXX';
+$user_id = 'XXXX';
+define('MYSQL_SERVERNAME', 'XXXX');
+define('MYSQL_USERNAME', 'XXXX');
+define('MYSQL_PASSWORD', 'XXXX');
+define('MYSQL_DB', 'XXXX');
+define('MYSQL_TABLE', 'XXXX');
